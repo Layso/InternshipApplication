@@ -62,6 +62,4 @@ These topics must be followed while programming
 * Over Design: Solve the problem with easiest way 
 * Communication: Ask whenever you are not sure. (You can take help when you stuck) 
 * Try to code readable and understandable. Don't forget to comment when needed
-
-Gerekli yerlere “comment” ‘ler eklemeyi unutmayınız. 
 * Be sure your solution includes all of the above without any lack
