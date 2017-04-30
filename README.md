@@ -1,6 +1,12 @@
 # InternshipApplication
-Internship application project for 32 Bit Bilgisayar software company. Here is the definition of problem
+Internship application project for 32 Bit Bilgisayar software company. Program coded and tested under Ubuntu 14.04.01 (64Bit) with Java version 1.7.0_121 and OpenJDK JRE IcedTea 2.6.8. makefile is ready to go for compiling and running the program. Java documentation is under the javadocs folder and runing screenshots can be found under SS folder.
 
+
+
+
+------
+Problem definition:
+------
 Merhaba, 
 
 İlk yaptığımız mülakat görüşmesi bizim için olumlu sonuçlanmıştır. Programlama ve algoritma kurabilme yeteneğini inceleyebilmemiz için aşağıda belirtilen çalışmayı tamamlamanı ve bize projenizi arcihe folder olarak mail yolu ile yada uzaktan erişime açık bir ortamdaki web link' ini bizim ile paylaşmanızı bekliyoruz. Nihai sonuç proje tesliminizden sonra belirlenicektir. Projenizi en geç mayıs ayı başına kadar iletmenizi bekliyoruz. (Erken gönderimler tabiki '+' dır.)
