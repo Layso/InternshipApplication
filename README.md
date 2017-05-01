@@ -1,5 +1,5 @@
 # InternshipApplication
-Internship application project for 32 Bit Bilgisayar software company. Program coded and tested under Ubuntu 14.04.01 (64Bit) with Java version 1.7.0_121 and OpenJDK JRE IcedTea 2.6.8. makefile is ready to go for compiling and running the program. Java documentation is under the javadocs folder and runing screenshots can be found under SS folder.
+Internship application project for 32 Bit Bilgisayar Hizmetleri company. Program coded and tested under Ubuntu 14.04.01 (64Bit) with Java version 1.7.0_121 and OpenJDK JRE IcedTea 2.6.8. makefile is ready to go for compiling and running the program. Java documentation is under the javadocs folder and runing screenshots can be found under SS folder.
 
 
 
